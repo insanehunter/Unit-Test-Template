@@ -4,11 +4,12 @@
 #define HC_SHORTHAND
 #define MOCKITO_SHORTHAND
 #import <SenTestingKit/SenTestingKit.h>
-#import <OCHamcrestIOS/OCHamcrestIOS.h>
-#import <OCMockitoIOS/OCMockitoIOS.h>
+#import <OCHamcrest/OCHamcrest.h>
+#import <OCMockito/OCMockito.h>
 
 // Class under test
 #import "<#Class Header#>"
+
 
 @interface ___FILEBASENAMEASIDENTIFIER___ : SenTestCase
 @end
